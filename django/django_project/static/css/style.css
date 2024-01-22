@@ -1,0 +1,48 @@
+.line{
+    background-color:aqua;
+    height: 50px;
+    display: flex;
+    position: relative;
+    font-size: large;
+    justify-content:space-around;
+    
+    
+    
+
+}
+.inside{
+    position: relative;
+    padding-top: 10px;
+    padding-left: 15px;
+    
+    
+    
+    
+    
+}
+.inside2{
+    position: relative;
+    padding-top: 10px;
+    padding-left: 60%;
+    justify-content:space-around;
+    font-size:large;
+    padding-right: 30px;
+}
+home,login,register{
+    justify-content: space-between;
+}
+.inside:hover{
+    color: brown;
+}
+a{
+    margin-left: 30px;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+.well{
+    box-shadow: 2px 2px 15px 0px black;
+}
